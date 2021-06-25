@@ -1,0 +1,29 @@
+{
+  "name": "semantic-ui-daterangepicker",
+  "main": [
+    "daterangepicker.js",
+    "daterangepicker.css"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "moment.js",
+    "moment.min.js"
+  ],
+  "dependencies": {
+    "jquery": ">=1.10",
+    "moment": "~2.9.0"
+  },
+  "homepage": "https://github.com/BreadMaker/semantic-ui-daterangepicker",
+  "_release": "5ecaa5c",
+  "_resolution": {
+    "type": "commit",
+    "commit": "5ecaa5c"
+  },
+  "_source": "https://github.com/BreadMaker/semantic-ui-daterangepicker.git",
+  "_target": "5ecaa5c",
+  "_originalSource": "https://github.com/BreadMaker/semantic-ui-daterangepicker.git"
+}
