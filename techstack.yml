@@ -1,0 +1,219 @@
+repo_name: Jodel/jodel-bootstrap-datepicker
+report_id: 3047e1364ef542e29a630a271fa6b123
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-29T10:49:31+00:00'
+requested_by: shadialtarsha
+provider: github
+branch: master
+detected_tools_count: 16
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Jodel/jodel-bootstrap-datepicker
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Jodel/jodel-bootstrap-datepicker
+  detection_source: Repo Metadata
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: '1.10'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/Jodel/jodel-bootstrap-datepicker/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: shadialtarsha
+  last_updated_on: 2021-06-25 06:55:02.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Jodel/jodel-bootstrap-datepicker
+  detection_source: Repo Metadata
+- name: JSHint
+  description: A Static Code Analysis Tool for JavaScript
+  website_url: http://www.jshint.com/about/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/1945/mzh2bRes_400x400.png
+  detection_source_url: https://github.com/Jodel/jodel-bootstrap-datepicker/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: shadialtarsha
+  last_updated_on: 2021-06-25 06:55:02.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 3.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/Jodel/jodel-bootstrap-datepicker/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: shadialtarsha
+  last_updated_on: 2021-06-25 06:55:02.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Jodel/jodel-bootstrap-datepicker/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: shadialtarsha
+  last_updated_on: 2021-06-25 06:55:02.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/Jodel/jodel-bootstrap-datepicker/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: shadialtarsha
+  last_updated_on: 2021-06-25 06:55:02.000000000 Z
+- name: del
+  description: Delete files and directories
+  package_url: https://www.npmjs.com/del
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
+  detection_source_url: https://github.com/Jodel/jodel-bootstrap-datepicker/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: shadialtarsha
+  last_updated_on: 2021-06-25 06:55:02.000000000 Z
+- name: gulp-jshint
+  description: JSHint plugin for gulp
+  package_url: https://www.npmjs.com/gulp-jshint
+  version: 1.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16050/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/Jodel/jodel-bootstrap-datepicker/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: shadialtarsha
+  last_updated_on: 2021-06-25 06:55:02.000000000 Z
+- name: gulp-minify-css
+  description: Minify css with clean-css
+  package_url: https://www.npmjs.com/gulp-minify-css
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16291/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/Jodel/jodel-bootstrap-datepicker/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: shadialtarsha
+  last_updated_on: 2021-06-25 06:55:02.000000000 Z
+- name: gulp-rename
+  description: Rename files
+  package_url: https://www.npmjs.com/gulp-rename
+  version: 1.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15895/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: https://github.com/Jodel/jodel-bootstrap-datepicker/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: shadialtarsha
+  last_updated_on: 2021-06-25 06:55:02.000000000 Z
+- name: gulp-sourcemaps
+  description: Source map support for Gulp.js
+  package_url: https://www.npmjs.com/gulp-sourcemaps
+  version: 1.5.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15958/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/Jodel/jodel-bootstrap-datepicker/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: shadialtarsha
+  last_updated_on: 2021-06-25 06:55:02.000000000 Z
+- name: gulp-uglifyjs
+  description: Minify multiple files with UglifyJS
+  package_url: https://www.npmjs.com/gulp-uglifyjs
+  version: 0.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18290/default_abd2698eb7ad04d77ba5634333ed1b7c7c46c9a3.png
+  detection_source_url: https://github.com/Jodel/jodel-bootstrap-datepicker/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: shadialtarsha
+  last_updated_on: 2021-06-25 06:55:02.000000000 Z
+- name: jshint-stylish
+  description: Stylish reporter for JSHint
+  package_url: https://www.npmjs.com/jshint-stylish
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16031/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/Jodel/jodel-bootstrap-datepicker/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: shadialtarsha
+  last_updated_on: 2021-06-25 06:55:02.000000000 Z
+- name: moment
+  description: Parse
+  package_url: http://bower.io/moment
+  version: 2.9.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/Jodel/jodel-bootstrap-datepicker/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: shadialtarsha
+  last_updated_on: 2021-06-25 06:55:02.000000000 Z
